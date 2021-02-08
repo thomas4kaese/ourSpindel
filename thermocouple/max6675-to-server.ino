@@ -8,7 +8,7 @@ const char* password = "WPAKEY";
 //Your Domain name with URL path or IP address with path
 String serverName = "http://YOUR.DOMAIN.NAME/metrics";
 
-int thermoDO = 12; // D6 am esp8266
+int thermoDO = 12; // D6 at esp8266
 int thermoCS = 13; // D7
 int thermoCLK = 14; // D5
 
